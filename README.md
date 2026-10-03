@@ -1,0 +1,2 @@
+# .github
+InferX organization profile
