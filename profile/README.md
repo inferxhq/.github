@@ -1,5 +1,7 @@
 # InferX
 
+<img src="https://raw.githubusercontent.com/inferxhq/.github/main/images/logo.png" width="96" align="left" alt="InferX logo"/>
+
 **The open exchange for LLM inference.**
 
 InferX is the open version of [inferhub.dev](https://inferhub.dev) — a place where
