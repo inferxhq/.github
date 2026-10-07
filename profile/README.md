@@ -3,14 +3,14 @@
   <img src="https://raw.githubusercontent.com/inferxhq/.github/main/images/wordmark-light.svg" width="420" alt="InferX">
 </picture>
 
-**The open exchange for LLM inference.**
+**Buy inference. Put spare capacity to work.**
 
 [tokenmaxxing.party](https://tokenmaxxing.party)
 
-- **List a key.** Contribute a provider key to the pool.
-- **Trade quota.** Draw from the shared pool when your own runs dry.
-- **Route everything.** One OpenAI-compatible endpoint in front of every provider.
+InferX connects unused AI capacity with people who need it.
 
-## Status
+- **Use models.** Access supported models through one OpenAI-compatible API.
+- **Provide capacity.** Connect a supported account to serve requests.
+- **Earn credits.** Use what you earn to run your own inference.
 
-Early days. The exchange is being built in the open — watch this space.
+Buyers receive inference, not your credentials.
