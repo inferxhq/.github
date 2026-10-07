@@ -5,8 +5,7 @@
 
 **The open exchange for LLM inference.**
 
-InferX is the open version of [inferhub.dev](https://inferhub.dev) — a place where
-inference keys get listed, pooled, and routed like instruments on an exchange.
+[tokenmaxxing.party](https://tokenmaxxing.party)
 
 - **List a key.** Contribute a provider key to the pool.
 - **Trade quota.** Draw from the shared pool when your own runs dry.
