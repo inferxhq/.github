@@ -1,6 +1,7 @@
-# InferX
-
-<img src="https://raw.githubusercontent.com/inferxhq/.github/main/images/logo.png" width="96" align="left" alt="InferX logo"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/inferxhq/.github/main/images/wordmark-dark.svg">
+  <img src="https://raw.githubusercontent.com/inferxhq/.github/main/images/wordmark-light.svg" width="420" alt="InferX">
+</picture>
 
 **The open exchange for LLM inference.**
 
